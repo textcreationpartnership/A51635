@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offer'd to the Honble. House of Commons for translating the duty of excise from mault-drinks to mault, whereby may be advanced to the Crown above twenty millions for carrying on the war against France together with some brief notes and observations on the laws and administrations in relation to that duty and the partiality and inequality thereof / by Robert Murray ...</title>
+            <author>Murray, Robert, 1635-1725?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51635</idno>
+            <idno type="STC">Wing M3123</idno>
+            <idno type="STC">ESTC R7688</idno>
+            <idno type="EEBO-CITATION">13720855</idno>
+            <idno type="OCLC">ocm 13720855</idno>
+            <idno type="VID">101566</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51635)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101566)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 846:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offer'd to the Honble. House of Commons for translating the duty of excise from mault-drinks to mault, whereby may be advanced to the Crown above twenty millions for carrying on the war against France together with some brief notes and observations on the laws and administrations in relation to that duty and the partiality and inequality thereof / by Robert Murray ...</title>
+                  <author>Murray, Robert, 1635-1725?</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and probable date of publication from Wing.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Malt liquors --  Taxation --  Early works to 1800.</term>
+               <term>Malt liquors --  Early works to 1800.</term>
+               <term>Taxation --  England --  Early works to 1800.</term>
+               <term>Taxation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101566:1" rendition="simple:additions"/>
+            <head>REASONS Humbly Offer'd to the <hi>Hon<hi rend="sup">ble</hi> Houſe of Commons,</hi> FOR Tranſlating the Duty of <hi>Exciſe</hi> from <hi>Mault-Drinks</hi> to <hi>Mault;</hi> whereby may be Advanced to the <hi>Crown</hi> above <hi>Twenty Millions,</hi> for Carrying on the <hi>War</hi> againſt <hi>France.</hi>
+            </head>
+            <head type="sub">TOGETHER, With ſome Brief Notes and Obſervations on the <hi>Laws</hi> and <hi>Adminiſtrations,</hi> in Relation to that <hi>Duty;</hi> and the <hi>Partiality</hi> and <hi>Inequality</hi> thereof.</head>
+            <byline>By <hi>ROBERT M<g ref="char:V">Ʋ</g>RRAY,</hi> Gent.</byline>
+            <div type="preface">
+               <p>
+                  <hi>THE enſuing</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>per <hi>has no other Deſign in it, than to Remove a</hi> Par<g ref="char:EOLhyphen"/>tial, <hi>and to Introduce an</hi> Impartial, DUTY; <hi>to Serve the</hi> KING, <hi>to Raiſe a great</hi> Revenue, <hi>and yet to Eaſe the</hi> People; <hi>which ſeems to be the</hi> Joynt Intereſt <hi>of the</hi> whole Nation; <hi>and to Obviate a Material Ob<g ref="char:EOLhyphen"/>jection,</hi> viz. That this Alteration will neither affect <hi>Land,</hi> nor <hi>Landed-Men,</hi> nor the <hi>Tenant,</hi> nor <hi>Farmers,</hi> nor <hi>Maulſters,</hi> nor <hi>Brewers,</hi> (as ſuch;) nor any but the <hi>Conſumptioner;</hi> nor is the <hi>Maulſter</hi> further Obliged, than to make due <hi>Entries</hi> of what he <hi>Makes,</hi> and to Pay as he <hi>Sells;</hi> by which means, it is plain, that he is no further Accountable than as a <hi>Collector;</hi> who Pays nothing, but what he firſt Receives: <hi>Nor do I, hereby, mean to Interfere with what the</hi> Honourable HOUSE <hi>have or ſhall determine, for the</hi> Service <hi>of the enſuing Year; But; if this Humble</hi> Ten<g ref="char:EOLhyphen"/>der, <hi>of Mine, ſhould meet with His</hi> Majeſties Royal APPROBATION <hi>in</hi> Parliament, <hi>it might take Place, after the</hi> Taxes <hi>of the preſent</hi> Seſſions; <hi>and humbly Submit what Service it may be to the</hi> KING, <hi>how much it muſt needs Animate the</hi> KING's Allies, <hi>and Diſcourage His</hi> Enemies, <hi>to ſee a</hi> Proviſion <hi>made to Supply the</hi> Occaſions <hi>of the</hi> War, <hi>for ſo many Years to come, by a</hi> M<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>d <hi>ſo little burthen-ſome, or rather indeed ſo very Eaſy to the</hi> People; <hi>as will appear by what follows.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:101566:2"/>
+               <head>
+                  <hi>REASONS</hi> for Tranſlating the Duty of Exciſe from <hi>Mault-Drinks</hi> to <hi>Mault, &amp;c.</hi>
+               </head>
+               <p>THE former <hi>Laws of Exciſe</hi> en<g ref="char:EOLhyphen"/>joyn the Payment of <hi>Two Shil<g ref="char:EOLhyphen"/>lings</hi> and <hi>Six Pence,</hi> for every <hi>Barrel</hi> of BEER and ALE, a<g ref="char:EOLhyphen"/>bove <hi>Six Shillings;</hi> and <hi>Six Pence</hi> for every <hi>Barrel</hi> of BEER and ALE, of <hi>Six Shillings,</hi> or under; the <hi>Common Brewer</hi> to make his Entry Weekly; <hi>Inn-Holders, Victuallers,</hi> and <hi>Ale-houſe-keepers,</hi> per Menſem, under the ſeveral Penalties therein mentioned.</p>
+               <p>THAT, notwithſtanding theſe <hi>Entries</hi> are duly Made and Atteſted, the <hi>Officer's</hi> ſingle Evidence is Concluſive, and his Charge (though never ſo unreaſonable) muſt be Paid; and the <hi>Brewer</hi> is not ad<g ref="char:EOLhyphen"/>mitted to Diſcharge himſelf, though, by the expreſs Letter of the Statute, he is allowed ſo to do; The <hi>Ganger</hi> making up his Charge by <hi>Hot</hi> and <hi>Cold Worts,</hi> in the <hi>Tun</hi> or <hi>Backs;</hi> whereby they are over<g ref="char:EOLhyphen"/>charged One <hi>Sixth Part</hi> at leaſt: Where<g ref="char:EOLhyphen"/>as the <hi>Duty</hi> chargeable by <hi>Law</hi> only, is, on every <hi>Barrel</hi> of BEER and ALE, Sold and Delivered out; and the Allowances of <hi>Two Barrels of Ale,</hi> upon every <hi>Twenty Two,</hi> and <hi>Three Barrels of Beer,</hi> upon every <hi>Twenty-Three Barrels,</hi> are in conſideration only of Damage, by <hi>Filling up, Yeaſt,</hi> and <hi>Waſt,</hi> in Cleanſing; which doth not nei<g ref="char:EOLhyphen"/>ther fully anſwer: And, in all Places out of this <hi>City,</hi> the <hi>Officers</hi> Charge <hi>That</hi> for ALE, which is really BEER; which is One <hi>Eight Part</hi> more than the <hi>Law</hi> re<g ref="char:EOLhyphen"/>quires, to the Oppreſſion of the Country; By which means, the whole Burthen of this <hi>Tax</hi> is laid upon a <hi>Fourth Part</hi> of the People; which cannot otherwiſe be Re<g ref="char:EOLhyphen"/>medied, but by Changing this <hi>Duty</hi> from <hi>Mault</hi>-DRINGS, to MAULT; Where<g ref="char:EOLhyphen"/>by every Man will Pay in an equal Propor<g ref="char:EOLhyphen"/>tion, to the Strength and Goodneſs of what they conſume.</p>
+               <p>IF any ſhould be hereby Diſcouraged from Brewing their own <hi>Drink,</hi> the King will be Reprized in the <hi>Exciſe,</hi> on the <hi>Common Brewer;</hi> who will be a conſide<g ref="char:EOLhyphen"/>rable Gainer, by the Augmentation of his Trade: <hi>Eight Pence</hi> laid on every <hi>Buſhel of</hi> MAULT, allowing <hi>Three Buſhels</hi> to every <hi>Barrel of</hi> BEER, and ALE, (which is all allowed <hi>per Barrel</hi> for ALE and BEER, of Common Draft and Sale,) will reduce the preſent <hi>Duty</hi> from <hi>Four Shillings</hi> and <hi>Nine-pence per Barrel,</hi> to <hi>Two Shillings;</hi> and yet encreaſe that Revenue to, at leaſt, <hi>Twenty-one Hundred Thouſand Pounds;</hi> which is more than Double, to what it now brings unto the <hi>Government;</hi> and the <hi>Nation</hi> conſiderably Eaſed, the <hi>Number of Officers</hi> Leſſened, and above a <hi>Moiety of the Charge of Collection</hi> Saved to the <hi>Crown.</hi>
+               </p>
+               <p>IF the <hi>Parliament</hi> ſhould endeavour to Redreſs the Grievance and Extortion a<g ref="char:EOLhyphen"/>foreſaid, and Regulate the Entries and Charge againſt the <hi>Brewers,</hi> according to the true Meaning of the <hi>Laws of Exciſe,</hi> it would much abate the Revenue.</p>
+               <p>IF the <hi>Parliament</hi> ſhould lay an <hi>Additio<g ref="char:EOLhyphen"/>nal Exciſe</hi> on BEER and ALE, the <hi>Brew<g ref="char:EOLhyphen"/>ers</hi> would have a great Advantage thereby; for, where <hi>Nine Pence</hi> was added upon a <hi>Barrel of Strong</hi> BEER and ALE, and <hi>Three Pence</hi> upon <hi>Small,</hi> the <hi>Exciſe</hi> little Advanced; and, when it was off again, it was little Abated: So that, any Addition to, or Regulation of <hi>Exciſe,</hi> as Now it is, will prove of little or no Advantage to the <hi>Crown.</hi>
+               </p>
+               <p>THOSE <hi>Brewers</hi> that wet great Quan<g ref="char:EOLhyphen"/>tities of MAULT, ſave <hi>Five Pounds per</hi> Week, by <hi>Exciſe;</hi> ſome more, ſome leſs.</p>
+               <pb n="3" facs="tcp:101566:2" rendition="simple:additions"/>
+               <p>THE <hi>Duty</hi> falling upon the <hi>Inferiour</hi> Rank of Men (the <hi>Nobility, Gentry,</hi> and <hi>Wealthier Sort,</hi> who Brew their own <hi>Drink,</hi> being exempt) is an Hardſhip, might as well be extended to their <hi>Bread,</hi> as to their <hi>Drink.</hi>
+               </p>
+               <p>THE Exemption of thoſe that Brew for their Private Uſe and Conſumption, will occaſion many to do it, and more will follow the Example; by which the <hi>Revenue</hi> muſt be leſſened, and precari<g ref="char:EOLhyphen"/>ous.</p>
+               <p>THAT the <hi>Revenue of Exciſe,</hi> as it Now ſtands, is little better than Precarious, ap<g ref="char:EOLhyphen"/>pears partly from the myſterious Practices of <hi>Brewers,</hi> very hard, if not impoſſible, to prevent; who always have it in their Power to Augment or Leſſen the ſame, by Brewing ſometimes <hi>One, Two, Three,</hi> or <hi>Four Barrels,</hi> out of the ſame Quantity of MAULT; where they often pay <hi>Five Shillings</hi> to the <hi>Crown,</hi> when they ought to account for <hi>Ten Shillings;</hi> and partly from the encreaſe of <hi>Private Brewing;</hi> to which the Temptation will grow, if the <hi>Duty</hi> be Augmented, unleſs Reſtrained by a particular Clauſe: And ſhould ſuch <hi>Private Brewing</hi> become a general Practice, the whole <hi>Revenue</hi> would be entirely loſt.</p>
+               <p>IT is therefore <hi>Propoſed,</hi> That the <hi>Du<g ref="char:EOLhyphen"/>ty of Exciſe</hi> may be changed from <hi>Mault</hi>-DRINKS unto MAULT for the Reaſons enſuing:</p>
+               <p>ALL that <hi>Drink,</hi> whether Rich or Poor, Brewing for themſelves or not, will pay in an equal Proportion, to the Strength and Goodneſs of what they Conſume.</p>
+               <p>THE <hi>Revenue</hi> will this way be Encrea<g ref="char:EOLhyphen"/>ſed, and yet the <hi>People</hi> conſiderably Eaſed.</p>
+               <p>THE <hi>Duty,</hi> thus laid, may be Raiſed and Collected without Diſpute, between the KING, and the <hi>People;</hi> which will be an equal Service to the <hi>Former,</hi> and Satisfacti<g ref="char:EOLhyphen"/>on to the <hi>Latter.</hi>
+               </p>
+               <p>THE <hi>Revenue</hi> will thus be fixed, and certain; and not ſubject to be impaired by any Arts, as now.</p>
+               <p>AND, Whereas it may be objected, That the <hi>Nobility,</hi> and <hi>Gentry,</hi> who keep great Hoſpitality, will hereby be much Burthened by the Tranſlation of the EX<g ref="char:EOLhyphen"/>CISE to MAULT. <hi>For Anſwer,</hi> Since <hi>All</hi> are equally Intereſted in, and Concern'd for the Preſervation of the <hi>Government</hi> and <hi>Nation,</hi> and mutually partake of the Benefit and Good Influence thereof; 'tis but rea<g ref="char:EOLhyphen"/>ſonable, <hi>All</hi> ſhould be brought in to a Com<g ref="char:EOLunhyphen"/>mon <hi>Avaridge,</hi> for Support of the Whole: And this is ſo far from proving a Da<g ref="char:EOLhyphen"/>mage to <hi>An<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> (as <hi>Some,</hi> through Miſtake, might imagine) that it will rather turn to their Advantage and Profit: Nor is it Conſiſtent with the Honour and Juſtice of <hi>Government,</hi> to Burden <hi>One</hi> Part of the People, to Eaſe the <hi>Other;</hi> that were to lay the Foundation of <hi>Government</hi> in <hi>
+                     <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>righteouſneſs,</hi> which wholly Conſiſts in the Equal and Impartial Diſtribution of <hi>Juſtice</hi> towards <hi>All:</hi> Nor do the <hi>People</hi> complain ſo much of the Greatneſs or Long-continuance of any <hi>Tax,</hi> as at the <hi>Partiality</hi> and <hi>Inequality</hi> thereof, which u<g ref="char:EOLhyphen"/>ſually creates <hi>Diſcontent;</hi> that, for the moſt part, ends in <hi>Sedition,</hi> to the <hi>Diſtur<g ref="char:EOLhyphen"/>bance</hi> of <hi>Government;</hi> which all wiſe <hi>Go<g ref="char:EOLhyphen"/>vernments</hi> will endeavour to prevent, by keeping the <hi>Body-Politique</hi> in a due Tem<g ref="char:EOLhyphen"/>perament or State of Health and Long-Life; for, it is moſt certain, that when there is no <hi>Internal</hi> cauſe of <hi>Sedition,</hi> there can be no <hi>Diſſolution</hi> of <hi>Government,</hi> which therefore muſt be <hi>Eternal.</hi> More particular<g ref="char:EOLhyphen"/>ly, <hi>One Moiety</hi> of the <hi>Original</hi> EXCISE, be<g ref="char:EOLhyphen"/>ing Given the <hi>Crown,</hi> in Recompenſe of the <hi>Court of Wards,</hi> &amp;c. taken away 12 <hi>Car.</hi> II. in Eaſe of the ſaid <hi>Nobility</hi> and <hi>Gentry,</hi> who were only grieved by that <hi>Court;</hi> the Equivalent, in Honour, might well enough have been charged upon Themſelves, and the <hi>People</hi> have been quite Exempted; at leaſt, it ſeems highly Juſt, that They bear their proportionable Part with the <hi>People;</hi> which is done by this Expedient.</p>
+               <p>THAT This is a more equal <hi>Tax,</hi> and may be managed, without ſubjecting their Houſes to the Inſpection of <hi>Exciſe-men;</hi> which will obviate the Common <hi>Objecti<g ref="char:EOLhyphen"/>on,</hi> againſt Altering the <hi>Duty</hi> from <hi>Mault</hi>-DRINKS to MAULT; and the putting the ſame at <hi>Eight Pence per Buſhel,</hi> will re<g ref="char:EOLhyphen"/>duce the <hi>Exciſe of Drink</hi> to <hi>Two Shillings per Barrel,</hi> which now Pays <hi>Four Shillings</hi> and <hi>Nine Pence;</hi> and yet more than dou<g ref="char:EOLhyphen"/>ble the preſent <hi>Revenue;</hi> and will be Col<g ref="char:EOLhyphen"/>lected
+<pb n="4" facs="tcp:101566:3"/>at a little more than <hi>One Third</hi> Part of the now Charges; the Sallaries of many <hi>Superfluous Officers</hi> being ſaved, a<g ref="char:EOLhyphen"/>mounting to many <hi>Thouſand Pounds, per Annum:</hi> Nor is MAULT, by any Con<g ref="char:EOLhyphen"/>cealment, ſubject to ſo many Frauds, it taking up <hi>Eighteen</hi> or <hi>Twenty</hi> Days time, after Wetting, before it can be fit for Sale: And the MAULSTERS being, for the moſt part, Wealthy, the <hi>Duty</hi> will be Currently Paid, and as well, if not better Secured, as from the BREWERS.</p>
+               <p>THAT this alone will be a Fund ſuffici<g ref="char:EOLhyphen"/>ent to take off all Anticipations on this <hi>Duty,</hi> in the <hi>Exchecquer,</hi> Excuſe a <hi>General Exciſe,</hi> and other <hi>petit Impoſitions;</hi> as that on <hi>Glaſs, Earthen-ware, Coals,</hi> &amp;c. which may be thought grievous; and will ſerve the <hi>Government</hi> to ſupport the <hi>War,</hi> during the Continuance thereof; and help to take in <hi>Clipt</hi> and <hi>Light-Money,</hi> and totally free all future <hi>Impoſitions</hi> upon <hi>Land: One Fourth</hi> Part of the ſaid <hi>Duty</hi> on MAULT, ſettled on the <hi>Crown</hi> for ever, will be an Equivalent in Lieu of that part of the <hi>Exciſe,</hi> that is Hereditary; and now being ſettled on the <hi>Crown</hi> for <hi>Ten Years,</hi> or during the Continuance of the <hi>War,</hi> will be found a Fund ſufficient for <hi>Twenty-One Millions;</hi> viz, Raiſe <hi>Two Millions</hi> for Ten Years, <hi>per Annum; Three Millions</hi> the firſt Seven Years; <hi>Four Millions</hi> for Five Years; or, <hi>Five Millions, per Annum,</hi> for Four Years, (beſides the ordinary Revenue of the Crown; which may be extinguiſhed in Ten Years) And that ſuch a <hi>Settle<g ref="char:EOLhyphen"/>ment</hi> for <hi>This,</hi> or the like <hi>Term of Years,</hi> to Support and Carry on the <hi>War,</hi> for ſome Continuance, will contribute very much to the Abatement of the Pride and Cou<g ref="char:EOLhyphen"/>rage of the Enemy.</p>
+               <p>FROM the <hi>Whole,</hi> 'Tis not deſigned, by this PAPER, to Propoſe the Laying a <hi>New Impoſition on Mault,</hi> but to Leſſen what ſeems already (tho' not <hi>Directly,</hi> yet <hi>Remotely</hi>) Charg'd on it, by reducing the ſame from <hi>Twelve Shillings</hi> and <hi>Eight-pence, per Quarter,</hi> to <hi>Five Shillings</hi> and <hi>Four-pence;</hi> for ſo, in Effect, it now Pays: For <hi>Six Buſhels,</hi> making <hi>Two Barrels</hi> of BEER and ALE, is <hi>Nine Shillings</hi> and <hi>Six Pence;</hi> and the other <hi>Two Buſhels,</hi> be<g ref="char:EOLhyphen"/>ing a <hi>Third</hi> Part more, is <hi>Three Shillings</hi> and <hi>Two Pence;</hi> which makes <hi>Twelve Shil<g ref="char:EOLhyphen"/>lings</hi> and <hi>Eight Pence, per Quarter.</hi> And it is humbly ſubmitted, That it may be much better, to Lay an <hi>Exciſe</hi> on <hi>One</hi> Single <hi>Commodity,</hi> which affects <hi>All</hi> in General; than a <hi>General Exciſe</hi> on all <hi>Commodities.</hi>
+               </p>
+               <p>AND to ſum up all, I further crave Leave to add, That, by a plain Eſtimate, the <hi>Revenue</hi> will equal, if not exceed the Joynt-Income of <hi>Cuſtome</hi> and <hi>Exciſe,</hi> as now they produce; for if the Number of People be rightly computed to be above <hi>Eight Millions,</hi> allowing to each <hi>Two Pecks</hi> and a Half <hi>per Menſem,</hi> and <hi>Thirteen Months</hi> in the Year, the Number of Quarters a<g ref="char:EOLhyphen"/>mount in the whole to <hi>Eight Millions, per Annum;</hi> which at <hi>Eight</hi> Pence <hi>per Buſhel,</hi> or <hi>Five Shillings Four Pence per Quarter,</hi> is upwards of <hi>Twenty-One Hundred Thouſand Pounds per Annum;</hi> by which Means, the <hi>Government</hi> may not only totally Free the <hi>Nation</hi> from all future <hi>Impoſitions on Land,</hi> &amp;c. as afore; but alſo, <hi>the War</hi> being Ended, Take off all <hi>Cuſtoms</hi> for <hi>Import</hi> and <hi>Export,</hi> except of ſuch <hi>Goods,</hi> where the <hi>Duty</hi> laid is intended to amount to a <hi>Pro<g ref="char:EOLhyphen"/>hibition:</hi> This may make <hi>England</hi> become a <hi>Free Port;</hi> the Great and Good Effects of which are too many, and too Obvious, to ſtand in need to be Repeated; and, ſhall therefore only Inſtance, <hi>That this alone</hi> (without any other <hi>Effort</hi>) <hi>will effectually Secure our</hi> African <hi>and</hi> Eaſt-India Trade <hi>from any, whatſoever,</hi> Competitors,</p>
+               <p>
+                  <hi>All which is Humbly Offer'd to the Wiſdom and Conſideration of the Honourable</hi> HOUSE of COMMONS.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
